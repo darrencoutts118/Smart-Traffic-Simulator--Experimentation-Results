@@ -1,0 +1,2 @@
+vehicleID,totalTime,distanceTraveled,euclideanDistance,manhattanDistance,junctionCount,timeSpentQueueing,maxSpeed,averageSpeed,algorithm
+17,88.14833,133.6225,133.4853,179.8615,0,0,0,0,Random Vehicle
